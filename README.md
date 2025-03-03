@@ -1,4 +1,3 @@
-```markdown
 # Etch a Sketch
 
 ## Project Overview
