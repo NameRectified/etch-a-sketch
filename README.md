@@ -21,4 +21,3 @@ There are no dependencies. Just download the files and host them on a web server
 
 ## Contributing
 This project is just for fun and learning purposes, so contributions are not currently being accepted.
-```
