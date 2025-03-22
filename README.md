@@ -14,8 +14,7 @@
 
 ## How to Run
 1. Clone or download this repository.
-2. Since the project can't be run locally without hosting, you'll need to host the files on a web server.
-3. Once hosted, open the `index.html` file in a browser to see the app in action.
+2. Open the `index.html` file in a browser to see the app in action.
 
 ## Installation
 There are no dependencies. Just download the files and host them on a web server.
